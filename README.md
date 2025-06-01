@@ -10,7 +10,7 @@ I'm a creative developer with a passion for building mobile and web apps, and I'
 - **Current Learning**: AI and web dev 🤖
 
 🌱 **Latest Projects**:
-- 🚀 Working on `Oct18_Assignment_1`
+- 🚀 Working on `Circle%`
 - 🤯 Brainstorming the next crazy app idea.
 
 💡 **Fun Facts**:
